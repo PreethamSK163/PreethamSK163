@@ -53,9 +53,9 @@ I am a final-year B.Tech EEE student at VIT Chennai with a keen interest in VLSI
 
 | Certification | Details |
 |---------------|---------|
-| 🏅 [CeNSE Winter School on Semiconductor Technology](https://preethamsk163.github.io/certifications.html#cense-cert) | Certificate of Distinction — IISc Bengaluru, Dec 2025 |
-| 🎓 [Chip-based VLSI Design for Industrial Applications](https://coursera.org/verify/specialization/52G1UVOM8JOS) | Specialisation — L&T EduTech via Coursera, Sep 2025 |
-| 📋 [RISC-V Processor — RV32I Base ISA](https://preethamsk163.github.io/certifications.html#maven-cert) | Maven Silicon, Feb 2025 |
+| CeNSE Winter School on Semiconductor Technology | Certificate of Distinction — IISc Bengaluru, Dec 2025 |
+| Chip-based VLSI Design for Industrial Applications | Specialisation — L&T EduTech via Coursera, Sep 2025 |
+| RISC-V Processor — RV32I Base ISA | Maven Silicon, Feb 2025 |
 
 ## Awards & Achievements
 
