@@ -36,7 +36,6 @@ I am an Electrical and Electronics Engineering graduate from VIT Chennai, with a
 | [03](https://github.com/PreethamSK163/Publication-3-Adaptive-Quadrant-Multiplier-SCI-Journal.git) | 📰 SCI Journal [Under Review] | Adaptive Quadrant Multiplier with Dynamic Reconfigurable Structure |
 | [04](https://github.com/PreethamSK163/Publication-4-FPGA-Solar-EV-Charging-Book-Chapter.git) | 📖 Book Chapter [Accepted] | FPGA Based Solar Powered EV Charging Station: Smart Infrastructure for a Sustainable Future — CRC Press, Taylor & Francis (ISBN: 9781041093626) |
 | [05](https://github.com/PreethamSK163/Publication-5-CNN-Hardware-Survey-Review-Article.git) | 📰 Research Article [Under Review] | Convolutional Neural Networks on Dedicated Hardware: A Comprehensive Survey of VLSI, FPGA and ASIC Implementations Across Real World Application Domains |
-| [06](https://github.com/PreethamSK163/Publication-6-Softmax-Processing-Unit-Sci-Journal-Work-in-Progress.git) | 📰 SCI Journal [Work in Progress] | Silicon-Level Implementation and Performance Characterisation of a Fixed-Point Softmax Processing Unit for DNN Inference Accelerators |
 
 ## Projects
 
