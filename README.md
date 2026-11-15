@@ -49,13 +49,13 @@ My long-term goal is to contribute to the semiconductor industry as a **Semicond
 
 My projects cover standard-cell implementation, semiconductor packaging, physical design automation and processor architecture.
 
-| No. | Project | Tools & Technical Focus |
-|---|---|---|
-| **01** | [Standard-Cell Design, Technology Mapping & Physical Implementation of a RISC-V SoC](https://github.com/PreethamSK163/Project-1-Standard-Cell-Design-Technology-Mapping-and-Physical-Implementation-of-RISC-V-SoC) | **Verilog · OpenLANE · Sky130 PDK · Magic** — PicoRV32a RTL-to-GDSII implementation, custom standard-cell integration, timing closure and DRC/LVS verification. |
-| **02** | [Semiconductor Package Materials, Interconnects & Thermal Simulation](https://github.com/PreethamSK163/Project-2-Semiconductor-Package-Materials-Interconnects-and-Thermal-Simulation) | **ANSYS Electronics Desktop · Icepak · Q3D** — flip-chip BGA thermal simulation and wire-bond package modelling, with focus on package materials, interconnects and thermal behaviour. |
-| **03** | [Standard-Cell Technology Mapping & Physical Design of an SPI Controller](https://github.com/PreethamSK163/Project-3-Standard-Cell-Technology-Mapping-and-Physical-Design-of-SPI-Controller) | **Qflow · Yosys · ABC · Magic · Netgen** — OSU 0.18 µm standard-cell implementation; 3,106 cells, 22,417 routes and DRC/LVS-verified layout. |
-| **04** | [Technology-Library-Aware RTL Synthesis & Static Timing Analysis Automation](https://github.com/PreethamSK163/Project-4-Technology-Library-Aware-RTL-Synthesis-and-Static-Timing-Analysis-Automation) | **TCL · Yosys · ABC · OpenTimer** — automated RTL-to-QoR flow, standard-cell mapping and timing analysis; evaluated using openMSP430 with 6,845 reported gates and 10,000 timing paths. |
-| **05** | [RISC-V Processor Microarchitecture & VLSI Design](https://github.com/PreethamSK163/Project-5-RISC-V-Processor-Microarchitecture-and-VLSI-Design) | **TL-Verilog · Makerchip · RISC-V RV32I** — five-stage pipelined processor with data forwarding, hazard handling, branch control and load/store operations. |
+| Project | Tools & Technical Focus |
+|---|---|
+| [Standard-Cell Design, Technology Mapping & Physical Implementation of a RISC-V SoC](https://github.com/PreethamSK163/Project-1-Standard-Cell-Design-Technology-Mapping-and-Physical-Implementation-of-RISC-V-SoC) | **Verilog · OpenLANE · Sky130 PDK · Magic** — PicoRV32a RTL-to-GDSII implementation, custom standard-cell integration, timing closure and DRC/LVS verification. |
+| [Semiconductor Package Materials, Interconnects & Thermal Simulation](https://github.com/PreethamSK163/Project-2-Semiconductor-Package-Materials-Interconnects-and-Thermal-Simulation) | **ANSYS Electronics Desktop · Icepak · Q3D** — flip-chip BGA thermal simulation and wire-bond package modelling, with focus on package materials, interconnects and thermal behaviour. |
+| [Standard-Cell Technology Mapping & Physical Design of an SPI Controller](https://github.com/PreethamSK163/Project-3-Standard-Cell-Technology-Mapping-and-Physical-Design-of-SPI-Controller) | **Qflow · Yosys · ABC · Magic · Netgen** — OSU 0.18 µm standard-cell implementation; 3,106 cells, 22,417 routes and DRC/LVS-verified layout. |
+| [Technology-Library-Aware RTL Synthesis & Static Timing Analysis Automation](https://github.com/PreethamSK163/Project-4-Technology-Library-Aware-RTL-Synthesis-and-Static-Timing-Analysis-Automation) | **TCL · Yosys · ABC · OpenTimer** — automated RTL-to-QoR flow, standard-cell mapping and timing analysis; evaluated using openMSP430 with 6,845 reported gates and 10,000 timing paths. |
+| [RISC-V Processor Microarchitecture & VLSI Design](https://github.com/PreethamSK163/Project-5-RISC-V-Processor-Microarchitecture-and-VLSI-Design) | **TL-Verilog · Makerchip · RISC-V RV32I** — five-stage pipelined processor with data forwarding, hazard handling, branch control and load/store operations. |
 
 ## Internship & Research Experience
 
